@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, I'm Ian!
+### Hi there 👋, I'm Ian!
 #### Rust & Bitcoin
 🚀I'm passionate about Bitcoin and the Lightning Network, as well as exploring other Layer 2 solutions that empower the world of Bitcoin.
 
@@ -12,7 +12,13 @@ Skills: RUST / C++ / SWIFT / JAVA / C#
 - 🔭 I’m currently working on rust-bitcoin 
 - 🌱 I’m currently learning Rust, rest api development, and using tokio for async programming. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/slanesuke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ian-slane/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ian_slane)  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ian-slane/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/ian_slaneL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
