@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ian!
-#### Rust & Bitcoin
+
 🚀I'm passionate about Bitcoin and the Lightning Network, as well as exploring other Layer 2 solutions that empower the world of Bitcoin.
 
 💻 I thrive at solving complex problems and building efficient, robust, and secure software. While I appreciate a well-designed front-end, my goal is to become a back-end engineer.
