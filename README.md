@@ -6,7 +6,7 @@
 
 🔧 If you're interested in Rust, Bitcoin, or back-end development, you're in the right place. Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or discuss exciting projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slanesuke)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slanesuke)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **slanesuke/slanesuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
