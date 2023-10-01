@@ -9,8 +9,6 @@
 
 Skills: RUST / C++ / SWIFT / JAVA / C#
 
-- 🔭 I’m currently working on rust-bitcoin 
-- 🌱 I’m currently learning Rust, rest api development, and using tokio for async programming. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ian-slane/" target="_blank">
