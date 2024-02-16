@@ -1,4 +1,4 @@
-### Yo, I'm Ian!
+### Yo! I'm Ian,
 
 🚀I'm passionate about working on Bitcoin and the Lightning Network, as well as exploring other Layer 2 solutions that empower Bitcoin & the world.
 
