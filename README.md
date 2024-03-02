@@ -1,6 +1,6 @@
 ### Yo! I'm Ian,
 
-🚀I'm passionate about working on Bitcoin and the Lightning Network, as well as exploring other Layer 2 solutions that empower Bitcoin & the world.
+🚀 I'm passionate about becoming a developer in the Bitcoin ecosystem. I'm looking to contribute more to Bitcoin and the Lightning Network, as well as exploring other Layer 2 solutions.
 
 💻 I thrive at solving complex problems and building efficient, robust, and secure software. While I appreciate a well-designed front-end, my goal is to become a back-end dev.
 
