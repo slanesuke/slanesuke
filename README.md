@@ -7,7 +7,7 @@
 🔧 If you're interested in Rust, or anything Bitcoin related, you're in the right place. Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or discuss exciting projects because I'm eager to learn.
 
 
-Skills: RUST / C# / JAVASCRIPT / JAVA / C++
+Skills: RUST / GIT / JAVASCRIPT / JAVA / C++
 
 
 <div id="badges">
