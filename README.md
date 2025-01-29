@@ -1,6 +1,6 @@
 ### Yo! I'm Ian,
 
-I'm a software developer passionate about Rust and the future of decentralized tech like bitcoin and the lightning network. I enjoy contributing to open source projects and building efficient, reliable software using Rust.
+I'm a software developer passionate about Rust and the future of decentralized tech like bitcoin and the lightning network. I enjoy contributing to open source projects and building efficient, reliable software.
 
 ### What I’m Into:
 - **Rust Programming**: I love working with Rust for its performance, safety, and fearless concurrency.
